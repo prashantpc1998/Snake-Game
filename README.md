@@ -30,6 +30,6 @@ Made using Javascipt.
 #### After downloading all the files, keep all the files in one folder.Then click on snake.html file one can open it any internet browser (prefer Chrome)
 
 ## Bugs
-* WHen snake is of length 2 (i.e when the score is 0) when it strikes the food horizontally ( while moving along x axis )it dies.
+* When snake is of length 2 (i.e when the score is 0) when it strikes the food horizontally ( while moving along x axis )it dies.
 
 
