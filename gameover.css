@@ -1,0 +1,9 @@
+body{
+	background-position: left top;
+	left: 0%;
+	top:0%;
+	background: url(gameOver.png);
+	background-repeat:no-repeat;
+	background-width:450;
+	background-height:450;
+}

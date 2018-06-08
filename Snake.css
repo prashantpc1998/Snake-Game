@@ -1,0 +1,13 @@
+#canvas{
+	background-color:#3d3e39;
+	
+}
+#scoreBoard{
+	position: absolute;
+	width:300px;
+	height:80px;
+	top:4%;
+	left:2%;
+    color:orange;
+    font:25px changa white;
+}
