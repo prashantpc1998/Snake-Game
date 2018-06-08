@@ -31,5 +31,6 @@ Made using Javascipt.
 
 ## Bugs
 * When snake is of length 2 (i.e when the score is 0) when it strikes the food horizontally ( while moving along x axis )it dies.
+ This is not fixed permanently.Code is adjusted temporarily so that it can die only when score>2.
 
 
