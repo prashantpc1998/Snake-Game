@@ -11,17 +11,17 @@ var food = [];  //array food stores the coordinates of food
 var i,j,g,h,q=0,p,a,b,score=0,flag=0,eat,dead,leftm,rightm,upm,downm;
 
 eat = new Audio();
-eat.src = "audio/eat.mp3";
+eat.src = "eat.mp3";
 dead = new Audio();
-dead.src = "audio/dead.mp3";
+dead.src = "dead.mp3";
 leftm = new Audio();
-leftm.src = "audio/left.mp3";
+leftm.src = "left.mp3";
 rightm = new Audio();
-rightm.src = "audio/right.mp3";
+rightm.src = "right.mp3";
 upm = new Audio();
-upm.src = "audio/up.mp3";
+upm.src = "up.mp3";
 downm= new Audio();
-downm.src = "audio/down.mp3";
+downm.src = "down.mp3";
 //eat,dead,upm,downm,leftm,rightm all are audio objects
 //responsible for playing audio when events eat,dead,turn left,turm right,turn up,turn down occur
 snake.pop();
